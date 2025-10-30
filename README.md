@@ -176,18 +176,6 @@ Increase if you're getting rate-limited, decrease for faster filling.
 - The script has no external dependencies or analytics
 - Source code is fully visible and auditable
 
-## Comparison with Python Script
-
-| Feature | Python Script | Tampermonkey Script |
-|---------|--------------|---------------------|
-| **Installation** | Requires Python + packages | Just install browser extension |
-| **Credentials** | Manual or Selenium extraction | Automatic from browser |
-| **UI** | Command-line interface | Visual modal interface |
-| **Date Selection** | Fills all missing dates | Manual checkbox selection |
-| **Time Entropy** | No randomization | ±1-10 minutes automatic |
-| **Progress** | Text output | Visual progress bar |
-| **Platform** | Any OS with Python | Any browser |
-
 ## License
 
 This script is provided as-is for personal use. Use responsibly and in accordance with your company's policies.
