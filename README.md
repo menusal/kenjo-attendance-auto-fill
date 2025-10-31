@@ -17,7 +17,7 @@ A Tampermonkey userscript that automatically fills missing Kenjo attendance entr
 ### Step 1: Install Tampermonkey
 
 1. Install the Tampermonkey browser extension:
-   - **Chrome**: [Tampermonkey on Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojnmoofnbnafgjabi)
+   - **Chrome**: [Tampermonkey on Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - **Firefox**: [Tampermonkey on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
    - **Edge**: [Tampermonkey on Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
    - **Safari**: [Tampermonkey on Mac App Store](https://apps.apple.com/us/app/tampermonkey/id1482490089)
